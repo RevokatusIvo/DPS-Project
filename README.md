@@ -36,10 +36,12 @@ This project is a web application that automatically generates captions for imag
 
 ## How to Use
 1. **Upload an Image**
-   Click the upload area to select an image from your device.
+
+    Click the upload area to select an image from your device.
    The selected image will be previewed on the screen.
    
 3. **Select Caption Tone**
+ 
    Choose from:
    - Neutral
    - Playful
@@ -49,7 +51,8 @@ This project is a web application that automatically generates captions for imag
    - Dramatic
      
 5. **Select Preferrable Language**
-   Supported language:
+
+    Supported language:
    - English
    - Bahasa Indonesia
    - Spanish
@@ -65,7 +68,8 @@ This project is a web application that automatically generates captions for imag
    - Arabic
     
 7. **Generate Caption**
-   Click the "Generate Caption" button.
+
+    Click the "Generate Caption" button.
    The AI model will process the image, applying the selected tone and language.
    The generated caption will appear below the image.
    
