@@ -1,6 +1,6 @@
 # Image Caption Generator
 
-This project is a web application that automatically generates captions for images uploaded by users. It uses a powerful AI model from Salesforce, which is **BLIP (Bootstrapping Language-Image Pretraining)**, integrated with **Flask** (Python), **HTML**, **Tailwind CSS**, and **JavaScript**.
+This project is a web application that automatically generates captions for images uploaded by users. It uses an AI model from Salesforce, which is **BLIP (Bootstrapping Language-Image Pretraining)**, and **MarianMT** for translation, integrated with **Flask** (Python), **HTML**, **Tailwind CSS**, and **JavaScript**.
 
 ## App Preview
 
