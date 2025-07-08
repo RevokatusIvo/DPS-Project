@@ -31,6 +31,7 @@ This project is a web application that automatically generates captions for imag
    docker-compose up -d
 
 4. **Access the App**
+
    After completing step 1-3, it will open your browser automatically having http://locahost:8080 as the port.
 
 ## How to Use
